@@ -288,7 +288,7 @@
   {
     "id": 21,
     "title": "The Complete IELTS Guide- 7 Courses in One - IELTS Band 7+",
-    "description": "UPDATED January-April 2025 - IELTS Preparation- Speaking, Listening, Reading, Writing (IELTS Academic AND General). This comprehensive IELTS preparation course combines 7 specialized modules into one complete package. Covers both Academic and General Training versions of the test with specific strategies for each. Features practice materials, model answers, and detailed feedback from experienced IELTS examiners.",
+    "description": "UPDATED January-April 2025 - IELTS Preparation- Speaking, Listening, Reading, Writing (IELTS Academic AND General)",
     "objectives": "Get Band 7+ in all 4 IELTS tests - IELTS Listening, IELTS Reading, IELTS Writing and IELTS Speaking. Suitable for IELTS General and IELTS Academic students Learn great skills for IELTS Reading and IELTS Listening. Create perfect written answers for IELTS Academic or IELTS General Writing Impress the IELTS Speaking examiner with your answers",
     "price": 599000,
     "newPrice": 49000,
@@ -302,15 +302,15 @@
     "isPublished": false,
     "isDeleted": false,
     "tags": "Advanced English, Professional Communication, Writing Mastery, Public Speaking, Debating",
-    "time": "50",
-    "learning_outcomes": "Achieve a band score of 7+ in all sections of the IELTS exam. Apply specific strategies for both Academic and General Training test formats. Write well-structured essays and reports that meet high scoring criteria. Speak fluently and coherently on a wide range of topics in the Speaking test. Improve reading speed and comprehension for academic and general texts. Develop effective note-taking techniques for the Listening section.",
-    "language": "English",
-    "level": "Intermediate to Advanced"
+    "time": null,
+    "learning_outcomes": null,
+    "language": null,
+    "level": null
   },
   {
     "id": 22,
     "title": "The Complete English Grammar Course - Perfect Your English",
-    "description": "A detailed and thorough English grammar course for all learners. Improve your language skills and understanding TODAY. This comprehensive grammar course covers all aspects of English grammar from basic to advanced levels. Features clear explanations, practical examples, and interactive exercises to reinforce learning. Includes troubleshooting sections that address common grammar mistakes made by English learners.",
+    "description": "A detailed and thorough English grammar course for all learners. Improve your language skills and understanding TODAY.",
     "objectives": "A detailed and thorough knowledge of English grammar. To understand English easier. To speak and write English with MORE confidence. Get answers to all your English grammar questions from someone who ACTUALLY teaches the language. Learn grammar deeply",
     "price": 1190000,
     "newPrice": 599000,
@@ -324,15 +324,15 @@
     "isPublished": false,
     "isDeleted": false,
     "tags": "Grammar Rules, Tenses, Prepositions, Modal Verbs, Conditionals",
-    "time": "45",
-    "learning_outcomes": "Master all aspects of English grammar from basic to advanced levels. Apply grammar rules correctly in both speaking and writing. Identify and correct common grammar mistakes in your own and others' work. Use complex grammatical structures with confidence and accuracy. Understand the logic behind English grammar rules rather than just memorizing them. Improve overall language proficiency through better grammar knowledge.",
-    "language": "English",
-    "level": "All Levels"
+    "time": null,
+    "learning_outcomes": null,
+    "language": null,
+    "level": null
   },
   {
     "id": 23,
     "title": "Master Native English | Speaking Skills, Grammar, and More",
-    "description": "Achieve English mastery and fluency in this journey through the English language. Each lesson is filled with examples. This advanced course focuses on helping non-native speakers achieve near-native fluency in English. Features extensive speaking practice with authentic materials and real-world scenarios. Includes detailed feedback on pronunciation, intonation, and natural expression patterns.",
+    "description": "Achieve English mastery and fluency in this journey through the English language. Each lesson is filled with examples.",
     "objectives": "Learn English skills to easily handle a wide range of common situations .Master exercises to improve your habits and ability to think in English. Learn and practice the grammar necessary to sound natural and avoid mistakes. Learn extremely common expressions and vocabulary (with examples). Gain confidence in your ability to express yourself in English clearly and accurately. Learn how to use English in advanced situations, like giving a presentation (and more)",
     "price": 899000,
     "newPrice": 600000,
@@ -346,15 +346,15 @@
     "isPublished": false,
     "isDeleted": false,
     "tags": "Word Formation, Collocations, Synonyms & Antonyms, Pronunciation Hacks, Sentence Structure",
-    "time": "40",
-    "learning_outcomes": "Communicate in English with near-native fluency and confidence. Handle a wide range of social and professional situations with appropriate language. Express complex ideas clearly and accurately in both speaking and writing. Use natural expressions, idioms, and colloquialisms in appropriate contexts. Apply advanced grammar structures intuitively without conscious effort. Present information professionally in various formats including presentations and reports.",
-    "language": "English",
-    "level": "Intermediate to Advanced"
+    "time": null,
+    "learning_outcomes": null,
+    "language": null,
+    "level": null
   },
   {
     "id": 24,
     "title": "Advanced American English Pronunciation | Complete Mastery",
-    "description": "Master English pronunciation like a native, including difficult English sounds, flow, rules, and more. All by example! This specialized course focuses exclusively on American English pronunciation at an advanced level. Features detailed video demonstrations of mouth positions, airflow, and tongue placement for each sound. Includes before-and-after recordings of students who have successfully mastered American pronunciation.",
+    "description": "Master English pronunciation like a native, including difficult English sounds, flow, rules, and more. All by example!",
     "objectives": "Master techniques for learning how to hear and imitate any English sound. Learn complex and simple sounds that make up most English words Learn the rules of pronunciation; when to use them, and when to avoid them. Master thousands of English word and sentence pronunciations; real practice to build skills AND habits. Gain techniques and examples to speak with flow, which is the key to natural English speech. Acquire exercises to practice everything you learn and continue improving your English long-term. Notice subtle differences between English sounds and words, so that you are never misunderstood. Learn patterns for correctly using both stress and intonation, to avoid sounding like a robot",
     "price": 600000,
     "newPrice": 399000,
@@ -368,15 +368,15 @@
     "isPublished": false,
     "isDeleted": false,
     "tags": "Listening Comprehension, Accents & Dialects, Real Conversations, Speech Patterns, TED Talks English",
-    "time": "35",
-    "learning_outcomes": "Pronounce all American English vowel and consonant sounds with native-like accuracy. Apply correct stress patterns in words, phrases, and sentences. Speak with natural rhythm and intonation patterns typical of American English. Reduce and link words appropriately in connected speech. Identify and correct pronunciation errors through self-monitoring techniques. Apply pronunciation skills to real-world speaking situations with confidence.",
-    "language": "English",
-    "level": "Intermediate to Advanced"
+    "time": null,
+    "learning_outcomes": null,
+    "language": null,
+    "level": null
   },
   {
     "id": 25,
     "title": "AMERICAN ENGLISH PRONUNCIATION: Accent Reduction Made Easy",
-    "description": "Step by Step Guide to Master the American Accent! Taught by Expert AWARD WINNING BROADWAY VOICE COACH. This unique course applies professional voice coaching techniques from Broadway to English pronunciation. Features specialized exercises developed for actors that produce rapid improvement in accent. Taught by a renowned voice coach with experience training international performers for American stage and screen roles.",
+    "description": "Step by Step Guide to Master the American Accent! Taught by Expert AWARD WINNING BROADWAY VOICE COACH",
     "objectives": "Speak American English clearly and confidently .Have a deeper knowledge of the American rhythm. How to speak American English dynamically and with intention .How to master the American Accent",
     "price": 499000,
     "newPrice": 399000,
@@ -390,15 +390,15 @@
     "isPublished": false,
     "isDeleted": false,
     "tags": "Essay Writing, Paragraph Structure, Academic Writing, Creative Writing, Business Writing",
-    "time": "25",
-    "learning_outcomes": "Speak with a convincing American accent that sounds natural to native speakers. Master the distinctive rhythm and musicality of American English speech. Apply professional voice techniques used by actors to improve pronunciation. Reduce your native accent interference when speaking English. Express yourself with appropriate emotion and emphasis in American English. Maintain the American accent consistently in extended conversation.",
-    "language": "English",
-    "level": "Intermediate to Advanced"
+    "time": null,
+    "learning_outcomes": null,
+    "language": null,
+    "level": null
   },
   {
     "id": 26,
     "title": "Perfect English Grammar For EVERY Level (A1/A2/B1/B2/C1/C2)",
-    "description": "Improve English from BEGINNER (A1/A2) to INTERMEDIATE (B1/B2) to ADVANCED (C1/C2, IELTS 7-9). *FEEDBACK ON YOUR WRITING*. This comprehensive grammar course is structured according to the CEFR levels from A1 to C2. Features separate learning paths for each level with appropriate complexity and content. Includes personalized feedback on writing assignments to ensure proper application of grammar concepts.",
+    "description": "Improve English from BEGINNER (A1/A2) to INTERMEDIATE (B1/B2) to ADVANCED (C1/C2, IELTS 7-9). *FEEDBACK ON YOUR WRITING*",
     "objectives": "LEARN ALL that you need about English Grammar to communicate at a native level of English. Over 80 advanced C1/C2 lessons, 110 intermediate B1/B2 lessons and 50 beginner A1/A2 lessons Over 300 additional PRACTICE/SPEAKING TASKS. All lessons TAUGHT LIVE by an EXPERIENCED, UNIVERSITY LECTURER with a NATIVE ENGLISH ACCENT. Each section has lessons for BEGINNER, ELEMENTARY, INTERMEDIATE, ADVANCED and EXPERT English students. Lessons cover the FORM and USE of each grammar point, as well as EXAMPLES of real life use",
     "price": 1699000,
     "newPrice": 1190000,
@@ -412,15 +412,15 @@
     "isPublished": false,
     "isDeleted": false,
     "tags": "Business English, Corporate Communication, Meetings & Negotiations, Presentations, Professional Etiquette",
-    "time": "80",
-    "learning_outcomes": "Master English grammar at your specific proficiency level from A1 to C2. Apply appropriate grammar structures for different communication contexts. Write with grammatical accuracy appropriate to your level. Identify and correct grammar errors in your own and others' writing. Progress systematically through increasingly complex grammar concepts. Achieve grammar proficiency that supports success in standardized English tests.",
-    "language": "English",
-    "level": "All Levels"
+    "time": null,
+    "learning_outcomes": null,
+    "language": null,
+    "level": null
   },
   {
     "id": 27,
     "title": "English Speaking: Mastering English Conversation",
-    "description": "Mastering English Speaking and English Conversation: Gain Confidence, Avoid Mistakes, and Speak English Fluently - Fast. This practical course focuses on developing natural conversation skills for real-world situations. Features role-plays, dialogues, and interactive exercises that simulate authentic conversations. Includes strategies for maintaining conversations, expressing opinions, and handling different social scenarios.",
+    "description": "Mastering English Speaking and English Conversation: Gain Confidence, Avoid Mistakes, and Speak English Fluently - Fast",
     "objectives": "Easily start conversations and make great first impressions. Keep any conversation flowing smoothly without awkward pauses. Share your opinions clearly and be understood in any situation. Practice speaking English effectively, even without a partner. Sound polite and respectful in any English conversation. Tell engaging stories that capture attention and interest. Take control of your learning and improve as your own teacher. Avoid common mistakes to speak naturally and fluently.",
     "price": 599000,
     "newPrice": 399000,
@@ -434,15 +434,15 @@
     "isPublished": false,
     "isDeleted": false,
     "tags": "Legal English, Contract Terminology, Courtroom English, Legal Documents, Legal Writing",
-    "time": "30",
-    "learning_outcomes": "Initiate and maintain conversations with native English speakers confidently. Express opinions, ideas, and emotions clearly in various social contexts. Navigate common conversation scenarios like introductions, small talk, and discussions. Develop active listening skills to better understand and respond to others. Use appropriate expressions and idioms to sound more natural in conversation. Apply strategies to overcome communication barriers and misunderstandings.",
-    "language": "English",
-    "level": "Intermediate"
+    "time": null,
+    "learning_outcomes": null,
+    "language": null,
+    "level": null
   },
   {
     "id": 28,
     "title": "English Idioms Launch: Upgrade your speaking and listening",
-    "description": "Learn English idioms from a native English teacher to take your spoken English and listening skills to the next level. This specialized course focuses exclusively on idiomatic expressions that are commonly used in everyday English. Features contextual examples showing when and how to use each idiom appropriately. Includes memory techniques and practice exercises to help you incorporate idioms naturally into your speech.",
+    "description": "Learn English idioms from a native English teacher to take your spoken English and listening skills to the next level",
     "objectives": "Speak English more confidently. Improve your English listening skills. Produce the target idioms confidently and accurately when you speak. Understand more English idioms that native speakers use.",
     "price": 499000,
     "newPrice": 399000,
@@ -456,15 +456,15 @@
     "isPublished": false,
     "isDeleted": false,
     "tags": "TOEIC Preparation, Listening & Reading Skills, Business Vocabulary, Mock Tests, Time Management",
-    "time": "20",
-    "learning_outcomes": "Understand and use over 300 common English idioms in appropriate contexts. Recognize idiomatic expressions when listening to native English speakers. Express ideas more naturally using idiomatic language instead of literal expressions. Incorporate idioms into your everyday conversations to sound more native-like. Understand the cultural and historical background of common English idioms. Avoid misusing idioms in inappropriate contexts or formal situations.",
-    "language": "English",
-    "level": "Intermediate to Advanced"
+    "time": null,
+    "learning_outcomes": null,
+    "language": null,
+    "level": null
   },
   {
     "id": 29,
     "title": "Improve your Business English: English for Presentations",
-    "description": "Learn 200+ essential phrases, plan & deliver presentations using effective Business English in this ESL course! This specialized business English course focuses exclusively on presentation skills for professional contexts. Features templates, phrases, and techniques for each stage of a business presentation. Includes guidance on handling questions, using visual aids, and adapting to different business audiences.",
+    "description": "Learn 200+ essential phrases, plan & deliver presentations using effective Business English in this ESL course!",
     "objectives": "Prepare presentations with the right type of phrases/language/expressions to be able to communicate effectively to your audience. Effectively structure and present a presentation in easy English. Know the phrases for each part of a public presentation. Improve your presentation skills and public speaking skills. Develop your Business English presentation skills as a non-native speaker. Speak confidently in English to all types of audiences",
     "price": 399000,
     "newPrice": 1190000,
@@ -478,15 +478,15 @@
     "isPublished": false,
     "isDeleted": false,
     "tags": "IELTS Academic, IELTS General, Writing Task 1 & 2, Speaking Part 1-3, Band 7+ Strategies",
-    "time": "15",
-    "learning_outcomes": "Deliver clear, structured business presentations in English with confidence. Use over 200 specialized phrases appropriate for different parts of a presentation. Create effective visual aids that enhance your message. Handle questions and objections professionally during and after presentations. Adapt presentation content and style for different business audiences. Apply techniques to manage nervousness and project confidence when speaking.",
-    "language": "English",
-    "level": "Intermediate to Advanced"
+    "time": null,
+    "learning_outcomes": null,
+    "language": null,
+    "level": null
   },
   {
     "id": 30,
     "title": "Learn English Speaking Course: English speaking secrets",
-    "description": "Learn the secrets reductions English native speakers use naturally in speaking but they NEVER teach this in school! This practical course reveals the hidden techniques that native speakers use naturally in conversation. Features specialized exercises to develop muscle memory for English pronunciation and rhythm. Includes psychological strategies to overcome speaking anxiety and build confidence in real conversations.",
+    "description": "Learn the secrets reductions English native speakers use naturally in speaking but they NEVER teach this in school!",
     "objectives": "Learn to speak intermediate English with perfect grammar!. Use natural native speaker English pronunciation. Use advanced conditionals including past modals (vital to speak English fluently). Practise and learn English speaking throughout the course Improve your listening ! .Learn all the native speaker pronunciation",
     "price": 1599000,
     "newPrice": 599000,
@@ -500,15 +500,15 @@
     "isPublished": false,
     "isDeleted": false,
     "tags": "Casual Conversations, Making Small Talk, Asking for Directions, Ordering Food, Shopping English",
-    "time": "25",
-    "learning_outcomes": "Speak English using the natural reductions and contractions that native speakers use. Apply advanced grammar structures intuitively in conversation. Understand native speakers even when they speak quickly or informally. Express complex ideas clearly and confidently in English. Use appropriate intonation and stress patterns to convey meaning effectively. Overcome psychological barriers to speaking English in public or with native speakers.",
-    "language": "English",
-    "level": "Intermediate to Advanced"
+    "time": null,
+    "learning_outcomes": null,
+    "language": null,
+    "level": null
   },
   {
     "id": 31,
     "title": "The Complete English Language Course Improve Spoken English",
-    "description": "Master the English Language - Learn English Grammar English Conversation English Pronunciation Spoken English. This comprehensive course integrates all aspects of English language learning into one cohesive program. Features a systematic approach that builds skills progressively from basic to advanced levels. Includes regular speaking practice, pronunciation drills, and conversation scenarios to develop practical fluency.",
+    "description": "Master the English Language - Learn English Grammar English Conversation English Pronunciation Spoken English",
     "objectives": "A detailed and thorough knowledge of English language and grammar. To understand English easier. To speak and write English with MORE confidence. Get answers to all your English language questions from someone who ACTUALLY teaches the language",
     "price": 600000,
     "newPrice": 399000,
@@ -522,10 +522,10 @@
     "isPublished": false,
     "isDeleted": false,
     "tags": "Social Events, Networking in English, Making Friends, Dating & Relationships, Cultural Etiquette",
-    "time": "40",
-    "learning_outcomes": "Communicate fluently in English across a wide range of everyday and professional situations. Apply grammar rules correctly and confidently in both speaking and writing. Pronounce English words and sentences clearly with proper stress and intonation. Understand native speakers at natural speaking speed in various contexts. Express complex ideas and opinions with appropriate vocabulary and structures. Write clearly and effectively for various purposes including emails, reports, and essays.",
-    "language": "English",
-    "level": "All Levels"
+    "time": null,
+    "learning_outcomes": null,
+    "language": null,
+    "level": null
   },
   {
     "id": 32,
