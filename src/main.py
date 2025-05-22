@@ -23,7 +23,7 @@ app.add_middleware(
 
 class SearchQuery(BaseModel):
     query: str
-    top_k: int = 3
+    top_k: int = 7
 
 def create_db_from_text():
     if not os.path.exists(TEXT_FILE_PATH):
